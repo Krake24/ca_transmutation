@@ -1,0 +1,12 @@
+{
+    "imperialGallery" : {
+
+    },
+    "monstrousCompendium": {
+        "Rarity" : ["Rare", "Epic"]
+    }, 
+    "ascensionScrolls" : {
+        "Tier" : ["Gladiator"]
+    }
+    
+}
